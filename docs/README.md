@@ -1,8 +1,5 @@
 ---
-title: Hello,World!
+title: '【ポートフォリオ#1】掲示板'
+date: 2019-11-03T02:30:53.674Z
 ---
-# Hello,World!
-
-## Hello World!
-
-### Hello World!
+Ruby on Railsの基本的な機能を使って、掲示板を制作しました。
